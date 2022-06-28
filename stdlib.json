@@ -1,0 +1,154 @@
+{
+  "name": "o2645/eva",
+  "timeout": 30000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/AI/AIbot.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/bully.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/cry.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/cuddle.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/kiss.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/blush.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/kill.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/cringe.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/dance.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/bite.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/highfive.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/bonk.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/poke.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/handhold.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/slap.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/cheeks.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/hug.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/awoo.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/angry.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/smug.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/yeet.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/wave.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/nom.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/glomp.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/happy.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/wink.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/game/randomwordgame.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/game/truthdaregame.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/game/talkback.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/AI/aibot2.js": {
+      "name": "discord.bot_mention"
+    },
+    "functions/events/discord/translationbot/translationbot.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/Admin/help.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/actions/smile.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/Admin/announc.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/advice.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/randommoviename.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/randommusic.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/afk.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/google.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/trace.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/weather.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "-weather"
+      }
+    },
+    "functions/events/discord/utility/latency.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/time.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/lockchannel.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/valentine.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/thanks.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/ticktak.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/utility/info.js": {
+      "name": "discord.message.create"
+    }
+  }
+}
