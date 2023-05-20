@@ -1,5 +1,4 @@
 # Eva (Discord Bot)
-coded in Javascript (nodejs)
 
 1. Set up a Discord bot account:
    - Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application.
@@ -30,7 +29,7 @@ coded in Javascript (nodejs)
    - Start your bot by running the command: `node bot.js`
    - If everything is set up correctly, your bot should come online and be ready to respond to events and commands on the Discord server.
 
-# deployment
+# Deployment
 Autocode is a platform that simplifies the deployment and hosting process for Discord bots, allowing you to focus more on developing the bot's functionality rather than managing the infrastructure. Here are the steps to deploy a Discord bot using Autocode:
 
 1. Sign up for an Autocode account:
