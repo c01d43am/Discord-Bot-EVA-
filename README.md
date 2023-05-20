@@ -1,7 +1,7 @@
 # Eva (Discord Bot)
 coded in Javascript (nodejs)
 
-Before compiling make sure you read (Readme.txt)
+Before Using make sure you read Every code line by line 🤣
 
 feel free to use 
 
