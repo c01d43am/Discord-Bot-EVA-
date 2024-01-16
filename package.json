@@ -4,7 +4,7 @@
   "publish": false,
   "dependencies": {
     "lib": "latest",
-    "axios": "^0.21.4",
+    "axios": 0."^1.5.2",
     "ytdl-core": "^4.11.1",
     "yt-search": "^2.11.0",
     "g-i-s": "^2.1.7",
