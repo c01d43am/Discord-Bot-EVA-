@@ -4,19 +4,19 @@
   "publish": false,
   "dependencies": {
     "lib": "latest",
-    "axios": "^0.27.2",
-    "ytdl-core": "^4.11.0",
-    "yt-search": "^2.10.3",
-    "g-i-s": "^2.1.6",
-    "ytpl": "^2.3.0",
-    "spotify-url-info": "^3.1.2",
-    "@iamtraction/google-translate": "^1.1.2",
-    "random-words": "^1.2.0",
-    "something-random-on-discord": "^3.4.4",
-    "ytsr": "^3.8.0",
-    "aniquotes-npm": "^1.0.5",
-    "random-movie-names": "^1.0.2",
-    "random-youtube-music-video": "^1.0.6",
-    "autocode-discordjs": "^1.1.0"
+    "axios": "^0.21.4",
+    "ytdl-core": "^4.11.1",
+    "yt-search": "^2.11.0",
+    "g-i-s": "^2.1.7",
+    "ytpl": "^2.4.0",
+    "spotify-url-info": "^3.1.3",
+    "@iamtraction/google-translate": "^1.1.3",
+    "random-words": "^1.2.1",
+    "something-random-on-discord": "^3.5.0",
+    "ytsr": "^3.8.1",
+    "aniquotes-npm": "^1.0.6",
+    "random-movie-names": "^1.0.3",
+    "random-youtube-music-video": "^1.0.7",
+    "autocode-discordjs": "^1.1.1"
   }
 }
